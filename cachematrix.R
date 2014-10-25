@@ -26,7 +26,7 @@
 ## License:    GNU GPL-3.0 
 
 ##
-## makeCacheMatrix():  
+## makeCacheMatrix()
 ##
 makeCacheMatrix <- function(x = matrix()) {
     m <- NULL
@@ -54,7 +54,7 @@ makeCacheMatrix <- function(x = matrix()) {
 
 
 ##
-## cacheSolve(): return a matrix that is the inverse of an input matrix 'x'
+## cacheSolve()
 ##
 cacheSolve <- function(x, ...) {
 
